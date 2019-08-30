@@ -1,0 +1,19 @@
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+.center{
+    float:center;
+}
+    
+h4{
+   background-color:purple;
+}
+
+body{
+    background-color:rgba(128, 128, 128, 0.404) ;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 15px;   
+}
